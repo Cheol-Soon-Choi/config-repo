@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT-updated"
+example.property: "I AM IN THE DEFAULT-updated-1-1"
 #spring.jpa.database: "POSTGRESQL"
 #spring.datasource.platform:  "postgres"
 #spring.jpa.show-sql: "true"
