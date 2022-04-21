@@ -1,4 +1,5 @@
 example.property: "I AM IN THE DEFAULT-updated123"
+persnal.password: "{cipher}b781e7bdc954020f4d09fbb60f580e6923497a0ddf87cdbe9f9e4168e41c3e43"
 #spring.jpa.database: "POSTGRESQL"
 #spring.datasource.platform:  "postgres"
 #spring.jpa.show-sql: "true"
