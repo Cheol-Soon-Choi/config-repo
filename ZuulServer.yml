@@ -1,4 +1,4 @@
 example.property: "test2"
 
 #test
-zuul.prefix: /api
+#zuul.prefix: /api
