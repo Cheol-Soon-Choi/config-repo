@@ -1,1 +1,5 @@
 example.property: "test"
+#test
+zuul.ignored-services=*
+zuul.prefix=/api
+zuul.routes.servicea1=/ab/**
