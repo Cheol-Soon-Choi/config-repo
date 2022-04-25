@@ -1,6 +1,5 @@
 example.property: "test2"
-zuul.sensitiveHeaders: "Cookie,Set-Cookie"
-zuul.debug.request: "true"
-
+zuul.sensitiveHeaders: Cookie,Set-Cookie
+zuul.debug.request: true
 #test
 #zuul.prefix: /api
