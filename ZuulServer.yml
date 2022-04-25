@@ -1,0 +1,4 @@
+example.property: "test2"
+
+#test
+zuul.prefix: /api
