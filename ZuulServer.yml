@@ -4,3 +4,4 @@ zuul.include-debug-header: true
 zuul.debug.request: true
 #test
 #zuul.prefix: /api
+signing.key: "345345fsdfsf5345"
