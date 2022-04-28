@@ -1,5 +1,5 @@
 example.property: "test2"
-zuul.sensitiveHeaders: Cookie,Set-Cookie
+zuul.sensitive-headers: Cookie,Set-Cookie
 zuul.include-debug-header: true
 zuul.debug.request: true
 #test
