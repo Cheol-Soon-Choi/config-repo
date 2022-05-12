@@ -1,4 +1,4 @@
-#signing.key: "hamburger"
+signing.key: "hamburger"
 
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
