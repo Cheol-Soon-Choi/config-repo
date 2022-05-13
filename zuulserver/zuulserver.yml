@@ -3,4 +3,4 @@ example.property: "zuul-default"
 zuul.sensitive-headers: Cookie,Set-Cookie
 zuul.include-debug-header: true
 zuul.debug.request: true
-signing.key: "345345fsdfsf5345"
+signing.key: "hamburger"
